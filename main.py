@@ -1,20 +1,23 @@
+import re
 import requests
 from tqdm import tqdm
 
-with open('2021.md', encoding="utf-8") as f:
+with open('2022.md', encoding="utf-8") as f:
     metadata = f.read()
     
     links = []
     for line in metadata.splitlines():
-        link = line.split(']')[1][1:].split(')')[0]
-        print(link)
-        if not link.startswith('http'):
-            assert False
-        links.append(link)
+        match = re.search(r'\((.*?)\)', line)
+        if match:
+            link = match.group(1)
+            print(link)
+            if not link.startswith('http'):
+                continue
+            links.append(link)
     
-    count = 0
+count = 0
     
-with open('output_2021.txt', 'w', encoding="utf-8") as output:
+with open('output_2022.txt', 'w', encoding="utf-8") as output:
     for link in tqdm(links):
         r = None
         for i in range(3):
@@ -36,4 +39,3 @@ with open('output_2021.txt', 'w', encoding="utf-8") as output:
             output.write(link + '   ---OK\n')
             output.flush()
 print(count)
-output.write(count)
