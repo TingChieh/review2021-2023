@@ -7,7 +7,6 @@
 | https://www.52txr.cn/2023/2023zongjie.html | OK |
 | https://innei.in/notes/160 | OK |
 | https://lutaonan.com/blog/2023-summary/ | OK |
-| https://www.bboy.app/2023/12/21/2023%E5%B9%B4%E6%80%BB%E7%BB%93/ | FAILED |
 | https://www.bboy.app/2023/12/21/2023%E5%B9%B4%E6%80%BB%E7%BB%93/ | OK |
 | https://dosk.win/2023/12/20/2023-nian-duo-zong-jie/ | OK |
 | https://justinyan.me/post/5845 | OK |
@@ -43,7 +42,6 @@ https://liuyuyang.net/index.php/archives/2195/ | FAILED |
 | https://www.ntiy.com/2049.html | OK |
 | https://xy77.live/leo2023/ | OK |
 | https://www.longlin.tech/conclusion2023/ | OK |
-| https://blog.lyc.sh/2023-annual-report/ | FAILED |
 | https://blog.lyc.sh/2023-annual-report/ | OK |
 | https://www.skyue.com/23122914.html | OK |
 | https://qq52o.me/2830.html | OK |
@@ -51,15 +49,13 @@ https://liuyuyang.net/index.php/archives/2195/ | FAILED |
 | http://gaocegege.com/Blog/%E9%9A%8F%E7%AC%94/newyear2023 | OK |
 | http://61.life/2023/1230 | OK |
 | https://imjiayin.com/5208 | OK |
-| https://blog.mute-g.com/post/work/summary-2023.html | FAILED |
 | https://blog.mute-g.com/post/work/summary-2023.html | OK |
 | https://www.xmylog.com/article/articles_review_2023 | OK |
-| http://freemind.pluskid.org/misc/2023-games | FAILED |
 | http://freemind.pluskid.org/misc/2023-games | OK |
+| http://elfile4138.moe/2023/12/2023-Recap/ | FAILED |
 | http://elfile4138.moe/2023/12/2023-Recap/ | OK |
 | https://demochen.com/posts/20231229/ | OK |
 | https://lenciel.com/2023/12/the-last-day-in-2023/ | OK |
-| http://catcoding.me/p/2023-summary/ | FAILED |
 | http://catcoding.me/p/2023-summary/ | OK |
 | https://behappy.cc/life/2023-final/ | OK |
 | https://chengpeiquan.com/article/2023-year-end-summary.html | OK |
@@ -101,9 +97,7 @@ https://www.ek1ng.com/Goodbye2023.html | FAILED |
 | https://zwh.moe/posts/default/review-2023 | OK |
 | https://ssshooter.com/2023-summary | OK |
 | https://kyle.ai/blog/7785.html | OK |
-| https://scottyeung.top/2023/record-of-2023/ | FAILED |
 | https://scottyeung.top/2023/record-of-2023/ | OK |
-| https://phuker.github.io/posts/photos-2023.html | FAILED |
 | https://phuker.github.io/posts/photos-2023.html | OK |
 | https://fmcf.cc/2023/12/306/ | OK |
 | https://blog.huggy.moe/posts/2023/my-2023/ | OK |
@@ -114,6 +108,7 @@ https://www.ek1ng.com/Goodbye2023.html | FAILED |
 | https://www.wys.me/79.html | FAILED |
 | https://www.wys.me/79.html | FAILED |
 https://www.wys.me/79.html | FAILED |
+| https://www.junz.org/post/2023_year_summary/ | FAILED |
 | https://www.junz.org/post/2023_year_summary/ | OK |
 | https://blog.debuginn.com/p/debuginn-2023/ | OK |
 | http://www.phodal.com/blog/node-2023/ | FAILED |
@@ -141,6 +136,7 @@ http://www.phodal.com/blog/node-2023/ | FAILED |
 | https://dusays.com/662/ | OK |
 | https://www.leolin86.com/?p=2860 | OK |
 | https://slince-zero.github.io/posts/2023/12/31/2023%E6%80%BB%E7%BB%93.html | OK |
+| https://blog.forecho.com/2023-review-investment.html | FAILED |
 | https://blog.forecho.com/2023-review-investment.html | OK |
 | http://freemind.pluskid.org/misc/2023-summary | OK |
 | https://a-wing.top/self/2023/12/31/2023.html | OK |
@@ -175,6 +171,8 @@ http://www.phodal.com/blog/node-2023/ | FAILED |
 | https://itlu.net/articles/2777.html | OK |
 | https://feng.pub/0120246148.html | OK |
 | https://minirizhi.com/483.html | OK |
+| https://deepzz.com/post/2023-year-end.html | FAILED |
+| https://deepzz.com/post/2023-year-end.html | FAILED |
 | https://deepzz.com/post/2023-year-end.html | OK |
 | http://z.arlmy.me/posts/YearlyBest/YearlyBest_2023/ | OK |
 | https://conge.livingwithfcs.org/2023/12/31/ReturnPoint-2023/ | OK |
@@ -184,7 +182,9 @@ http://www.phodal.com/blog/node-2023/ | FAILED |
 | https://www.ttalk.im/2024/01/review-in-2023-new-plan-in-2024.html | OK |
 | http://nanvon.cn/article/2023-book-list | OK |
 | https://dawner.top/posts/fluid-dream-2023/ | OK |
+| https://dawner.top/posts/2023/ | FAILED |
 | https://dawner.top/posts/2023/ | OK |
+| https://diygod.cc/2023 | FAILED |
 | https://diygod.cc/2023 | OK |
 | https://www.javis.me/i-dont-know/ | OK |
 | https://jalenz.cn/life/hi-2024/ | OK |
@@ -229,10 +229,12 @@ http://www.phodal.com/blog/node-2023/ | FAILED |
 | https://blog.ops-coffee.cn/r/2023-rv-travel-camping-and-vanlife | OK |
 | https://blog.ops-coffee.cn/s/2023-devops-service-platform-tools | OK |
 | http://124.222.21.127/index.php/thinking/review-2nd.html | OK |
+| https://matrixcore.top/article/231230 | FAILED |
 | https://matrixcore.top/article/231230 | OK |
 | https://www.peterjxl.com/About/summary-2023/ | OK |
 | https://www.luxinfeng.top/article/20240107 | OK |
 | https://stringmax.xyz/post/19 | OK |
+| https://rene.wang/p/2023 | FAILED |
 | https://rene.wang/p/2023 | OK |
 | https://www.codesky.me/archives/2023-web-dev-report.wind | OK |
 | http://weepingdogel.github.io/posts/2023-annual-summary/ | OK |
@@ -283,3 +285,4 @@ https://xiaolii.com/archives/532 | FAILED |
 | https://youjiali1995.github.io/essay/2023-summary/ | OK |
 | https://shiyu.dev/archives/2985/%E6%88%91%E7%9A%84%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%89/ | OK |
 | https://blog.7wate.com/archives/hui-gu-2023 | OK |
+## 总共有 236 个链接可访问

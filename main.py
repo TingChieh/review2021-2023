@@ -2,7 +2,7 @@ import re
 import requests
 from tqdm import tqdm
 
-with open('2021.md', encoding="utf-8") as f:
+with open('2023.md', encoding="utf-8") as f:
     metadata = f.read()
     
     links = []
@@ -17,7 +17,7 @@ with open('2021.md', encoding="utf-8") as f:
     
 count = 0
     
-with open('output_2021.md', 'w', encoding="utf-8") as output:
+with open('output_2023.md', 'w', encoding="utf-8") as output:
     
     output.write("| 链接 | 状态 |\n")
     output.write("| ---- | ---- |\n")
@@ -43,4 +43,5 @@ with open('output_2021.md', 'w', encoding="utf-8") as output:
             print("| " + link, " | OK |")
             output.write("| " + link + ' | OK |\n')
             output.flush()
-print(count)
+    print(count)
+    output.write("## 总共有 " + str(count) + " 个链接可访问")

@@ -12,6 +12,7 @@ https://qingruoli.com/1941.html | FAILED |
 | https://fatesinger.com/100710 | OK |
 | https://freemind.pluskid.org/misc/2021-summary/ | OK |
 | https://soulteary.com/2021/12/31/2021-year-end-summary.html | OK |
+| https://blog.devtang.com/2022/01/01/2021-summary/ | FAILED |
 | https://blog.devtang.com/2022/01/01/2021-summary/ | OK |
 | https://thiscute.world/posts/2021-summary/ | OK |
 | https://www.ixiqin.com/2021/12/2021-year-end-summary/ | OK |
@@ -19,15 +20,11 @@ https://qingruoli.com/1941.html | FAILED |
 | https://jysperm.me/2021/12/summary-of-2021/ | OK |
 | https://battlele.com/2021-review/ | OK |
 | https://blog.isteed.cc/post/2021-summary/ | OK |
-| https://pt.plus/2021-year-in-review/ | FAILED |
-| https://pt.plus/2021-year-in-review/ | FAILED |
-| https://pt.plus/2021-year-in-review/ | FAILED |
-https://pt.plus/2021-year-in-review/ | FAILED |
+| https://pt.plus/2021-year-in-review/ | OK |
 | https://www.mokeyjay.com/archives/3085 | FAILED |
 | https://www.mokeyjay.com/archives/3085 | OK |
 | https://xuanwo.io/2021/11-2021-review/ | OK |
 | https://scottyeung.top/2022/record-of-2021/ | OK |
-| http://www.wu.run/2021/12/31/2021-summary/ | FAILED |
 | http://www.wu.run/2021/12/31/2021-summary/ | OK |
 | https://synyan.cn/t/38681/ | OK |
 | https://wzyboy.im/post/1462.html | OK |
@@ -85,6 +82,7 @@ https://www.cnfeat.com/blog/2022/01/10/letter2021/ | FAILED |
 | https://elizen.me/posts/2021/12/2022-happy-new-year/ | OK |
 | http://blog.fzdslr.cn/2022-01-01-A_sum_of_2021.html | OK |
 | https://www.gaficat.com/posts/28ddd435.html | OK |
+| https://wangyou233.wang/archives/75 | FAILED |
 | https://wangyou233.wang/archives/75 | OK |
 | https://lenciel.com/2021/12/last-day-in-2021/ | OK |
 | https://crowndaisy.com/2021-d9be976f33ec4d7087759fa94297148a | OK |
@@ -138,7 +136,6 @@ https://weiyexing.ml/posts/film-record-2021/ | FAILED |
 | https://weiyexing.ml/posts/read-record-2021/ | FAILED |
 https://weiyexing.ml/posts/read-record-2021/ | FAILED |
 | https://dawner.top/posts/year-end-summary-2021/ | OK |
-| https://immmmm.com/right-so-so-2021/ | FAILED |
 | https://immmmm.com/right-so-so-2021/ | OK |
 | https://mayandev.top/2022/01/24/2021/2021-year-end/ | FAILED |
 | https://mayandev.top/2022/01/24/2021/2021-year-end/ | FAILED |
@@ -148,8 +145,8 @@ https://mayandev.top/2022/01/24/2021/2021-year-end/ | FAILED |
 | https://lvdawei.com/post/2021-summary/ | FAILED |
 | https://lvdawei.com/post/2021-summary/ | FAILED |
 https://lvdawei.com/post/2021-summary/ | FAILED |
-| http://www.hdgogogo.com/4159 | FAILED |
 | http://www.hdgogogo.com/4159 | OK |
+| https://www.mhcf.net/1143.html | FAILED |
 | https://www.mhcf.net/1143.html | OK |
 | https://lgiki.net/post/2021-review/ | OK |
 | https://ek1ng.com/2022/01/18/%E5%86%8D%E8%A7%812021_%E8%BF%B7%E8%8C%AB%E4%B8%94%E6%89%A7%E7%9D%80/ | FAILED |
@@ -177,6 +174,7 @@ https://www.mbcao.com/farewell-or-beginning/ | FAILED |
 | https://blog.inoki.cc/2022/02/08/My-2021/ | OK |
 | https://blog.shuiba.co/colourful-days-2021 | OK |
 | https://ourai.ws/posts/the-second-year-of-three-years-belonging-to-me/ | OK |
+| https://blog.fsky7.com/archives/218/ | FAILED |
 | https://blog.fsky7.com/archives/218/ | OK |
 | https://xlog.zwh.moe/review-2021 | OK |
 | https://s5s5.me/4029 | OK |
@@ -184,6 +182,7 @@ https://www.mbcao.com/farewell-or-beginning/ | FAILED |
 | https://qq52o.me/2800.html | OK |
 | https://huangxin.dev/site-updates/2021-end-of-year-summary | OK |
 | https://feizhaojun.com/?p=3360 | OK |
+| https://old-panda.com/2021/12/31/my-2021/?utm_source=rss&utm_medium=rss&utm_campaign=my-2021 | FAILED |
 | https://old-panda.com/2021/12/31/my-2021/?utm_source=rss&utm_medium=rss&utm_campaign=my-2021 | OK |
 | https://paugram.com/essay/bye-2021.html | OK |
 | https://blanboom.org/2022/my-2021/ | OK |
@@ -209,7 +208,10 @@ https://imzhanghao.com/2022/01/05/summary-2021/ | FAILED |
 | https://blog.thetbw.xyz/archives/%E6%88%91%E7%9A%842021%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93 | OK |
 | https://www.skyue.com/22010323.html | OK |
 | https://imjiayin.com/4602 | OK |
-| https://lhcy.org/archives/176.html | OK |
+| https://lhcy.org/archives/176.html | FAILED |
+| https://lhcy.org/archives/176.html | FAILED |
+| https://lhcy.org/archives/176.html | FAILED |
+https://lhcy.org/archives/176.html | FAILED |
 | https://bosir.cn/925.html | OK |
 | https://bestcherish.com/zhua-zhu-2021-de-wei-ba.html | OK |
 | https://behappy.cc/2021/12/29/2021-final/ | OK |
@@ -248,3 +250,5 @@ https://weiyexing.ml/posts/back-to-2021/ | FAILED |
 | https://xuyisheng.top/2022/ | FAILED |
 https://xuyisheng.top/2022/ | FAILED |
 | https://jesor.me/2021/intermezzo/ | OK |
+
+## 总共有 152 个链接可访问
